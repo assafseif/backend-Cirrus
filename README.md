@@ -21,6 +21,20 @@ The tools and libraries used to complete the project are the following:
 
 9-**CORS**: cross origin resource sharing
 
+## Table of Contents
+
+- [Config](https://github.com/assafseif/backend-Cirrus/tree/main/config)
+
+- [Controllers](https://github.com/assafseif/backend-Cirrus/tree/main/controllers)
+
+- [Middleware](https://github.com/assafseif/backend-Cirrus/tree/main/middleware)
+
+- [Models](https://github.com/assafseif/backend-Cirrus/tree/main/model)
+
+- [Routes](https://github.com/assafseif/backend-Cirrus/tree/main/routes)
+
+- [Utils](https://github.com/assafseif/backend-Cirrus/tree/main/utils)
+
 ## Install & Setup
 
 1-Download the project and open in VScode, or any of your preferred IDEs.
@@ -37,8 +51,6 @@ npm install
 
 ## Scripts
 
-**Generate Token**
-
 **Start Build**
 
 The script allows to start and automatically restart the server using nodemon
@@ -46,17 +58,3 @@ The script allows to start and automatically restart the server using nodemon
 ```bash
 npm start
 ```
-
-## Table of Contents
-
-- [Config](https://github.com/assafseif/backend-Cirrus/tree/main/config)
-
-- [Controllers](https://github.com/assafseif/backend-Cirrus/tree/main/controllers)
-
-- [Middleware](https://github.com/assafseif/backend-Cirrus/tree/main/middleware)
-
-- [Models](https://github.com/assafseif/backend-Cirrus/tree/main/model)
-
-- [Routes](https://github.com/assafseif/backend-Cirrus/tree/main/routes)
-
-- [Utils](https://github.com/assafseif/backend-Cirrus/tree/main/utils)
