@@ -47,8 +47,6 @@ The tools and libraries used to complete the project are the following:
 npm install
 ```
 
-4-Open a second command terminal and copy the following command to start the redis server
-
 ## Scripts
 
 **Start Build**
